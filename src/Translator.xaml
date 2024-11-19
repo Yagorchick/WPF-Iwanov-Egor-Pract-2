@@ -1,0 +1,16 @@
+﻿<Window x:Class="Iwanov_Egor_Pract_2.Translator"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Iwanov_Egor_Pract_2"
+        mc:Ignorable="d"
+        Title="Переводчик" Height="130" Width="570">
+    <Grid>
+        <Button x:Name="Back" Content="Обратно на Главную" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="60" Width="130" Click="Back_Click"/>
+        <TextBox x:Name="WordA" HorizontalAlignment="Left" Margin="164,31,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="20"/>
+        <Button x:Name="Translate" Content="Перевести" HorizontalAlignment="Left" Margin="289,31,0,0" VerticalAlignment="Top" Click="Translate_Click"/>
+        <TextBox x:Name="WordB" HorizontalAlignment="Left" Margin="356,31,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="20"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\24IS11-2\\Yaga\\Iwanov Egor Pract 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40AA6401-0CAB-4AEE-869B-F437ED8DB8ED}|Iwanov Egor Pract 2.csproj|c:\\users\\user\\desktop\\24is11-2\\yaga\\iwanov egor pract 2\\translator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AA6401-0CAB-4AEE-869B-F437ED8DB8ED}|Iwanov Egor Pract 2.csproj|solutionrelative:translator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AA6401-0CAB-4AEE-869B-F437ED8DB8ED}|Iwanov Egor Pract 2.csproj|c:\\users\\user\\desktop\\24is11-2\\yaga\\iwanov egor pract 2\\translator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{40AA6401-0CAB-4AEE-869B-F437ED8DB8ED}|Iwanov Egor Pract 2.csproj|solutionrelative:translator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AA6401-0CAB-4AEE-869B-F437ED8DB8ED}|Iwanov Egor Pract 2.csproj|c:\\users\\user\\desktop\\24is11-2\\yaga\\iwanov egor pract 2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{40AA6401-0CAB-4AEE-869B-F437ED8DB8ED}|Iwanov Egor Pract 2.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AA6401-0CAB-4AEE-869B-F437ED8DB8ED}|Iwanov Egor Pract 2.csproj|c:\\users\\user\\desktop\\24is11-2\\yaga\\iwanov egor pract 2\\fromtotill.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AA6401-0CAB-4AEE-869B-F437ED8DB8ED}|Iwanov Egor Pract 2.csproj|solutionrelative:fromtotill.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AA6401-0CAB-4AEE-869B-F437ED8DB8ED}|Iwanov Egor Pract 2.csproj|c:\\users\\user\\desktop\\24is11-2\\yaga\\iwanov egor pract 2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AA6401-0CAB-4AEE-869B-F437ED8DB8ED}|Iwanov Egor Pract 2.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AA6401-0CAB-4AEE-869B-F437ED8DB8ED}|Iwanov Egor Pract 2.csproj|c:\\users\\user\\desktop\\24is11-2\\yaga\\iwanov egor pract 2\\calculator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{40AA6401-0CAB-4AEE-869B-F437ED8DB8ED}|Iwanov Egor Pract 2.csproj|solutionrelative:calculator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AA6401-0CAB-4AEE-869B-F437ED8DB8ED}|Iwanov Egor Pract 2.csproj|c:\\users\\user\\desktop\\24is11-2\\yaga\\iwanov egor pract 2\\fromtotill.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{40AA6401-0CAB-4AEE-869B-F437ED8DB8ED}|Iwanov Egor Pract 2.csproj|solutionrelative:fromtotill.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AA6401-0CAB-4AEE-869B-F437ED8DB8ED}|Iwanov Egor Pract 2.csproj|c:\\users\\user\\desktop\\24is11-2\\yaga\\iwanov egor pract 2\\secret.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{40AA6401-0CAB-4AEE-869B-F437ED8DB8ED}|Iwanov Egor Pract 2.csproj|solutionrelative:secret.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AA6401-0CAB-4AEE-869B-F437ED8DB8ED}|Iwanov Egor Pract 2.csproj|c:\\users\\user\\desktop\\24is11-2\\yaga\\iwanov egor pract 2\\secret.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AA6401-0CAB-4AEE-869B-F437ED8DB8ED}|Iwanov Egor Pract 2.csproj|solutionrelative:secret.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AA6401-0CAB-4AEE-869B-F437ED8DB8ED}|Iwanov Egor Pract 2.csproj|c:\\users\\user\\desktop\\24is11-2\\yaga\\iwanov egor pract 2\\calculator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AA6401-0CAB-4AEE-869B-F437ED8DB8ED}|Iwanov Egor Pract 2.csproj|solutionrelative:calculator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Secret.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\24IS11-2\\Yaga\\Iwanov Egor Pract 2\\Secret.xaml",
+              "RelativeDocumentMoniker": "Secret.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\24IS11-2\\Yaga\\Iwanov Egor Pract 2\\Secret.xaml",
+              "RelativeToolTip": "Secret.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-19T06:25:57.723Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FromToTill.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\24IS11-2\\Yaga\\Iwanov Egor Pract 2\\FromToTill.xaml",
+              "RelativeDocumentMoniker": "FromToTill.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\24IS11-2\\Yaga\\Iwanov Egor Pract 2\\FromToTill.xaml",
+              "RelativeToolTip": "FromToTill.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-19T06:25:00.163Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Calculator.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\24IS11-2\\Yaga\\Iwanov Egor Pract 2\\Calculator.xaml",
+              "RelativeDocumentMoniker": "Calculator.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\24IS11-2\\Yaga\\Iwanov Egor Pract 2\\Calculator.xaml",
+              "RelativeToolTip": "Calculator.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-19T06:23:24.228Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Translator.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\24IS11-2\\Yaga\\Iwanov Egor Pract 2\\Translator.xaml",
+              "RelativeDocumentMoniker": "Translator.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\24IS11-2\\Yaga\\Iwanov Egor Pract 2\\Translator.xaml",
+              "RelativeToolTip": "Translator.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-19T06:22:55.956Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\24IS11-2\\Yaga\\Iwanov Egor Pract 2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\24IS11-2\\Yaga\\Iwanov Egor Pract 2\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-19T06:18:30.467Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Secret.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\24IS11-2\\Yaga\\Iwanov Egor Pract 2\\Secret.xaml.cs",
+              "RelativeDocumentMoniker": "Secret.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\24IS11-2\\Yaga\\Iwanov Egor Pract 2\\Secret.xaml.cs",
+              "RelativeToolTip": "Secret.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAApwB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:26:00.618Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FromToTill.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\24IS11-2\\Yaga\\Iwanov Egor Pract 2\\FromToTill.xaml.cs",
+              "RelativeDocumentMoniker": "FromToTill.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\24IS11-2\\Yaga\\Iwanov Egor Pract 2\\FromToTill.xaml.cs",
+              "RelativeToolTip": "FromToTill.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAhwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:25:15.636Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Calculator.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\24IS11-2\\Yaga\\Iwanov Egor Pract 2\\Calculator.xaml.cs",
+              "RelativeDocumentMoniker": "Calculator.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\24IS11-2\\Yaga\\Iwanov Egor Pract 2\\Calculator.xaml.cs",
+              "RelativeToolTip": "Calculator.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAhwB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:23:25.627Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Translator.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\24IS11-2\\Yaga\\Iwanov Egor Pract 2\\Translator.xaml.cs",
+              "RelativeDocumentMoniker": "Translator.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\24IS11-2\\Yaga\\Iwanov Egor Pract 2\\Translator.xaml.cs*",
+              "RelativeToolTip": "Translator.xaml.cs*",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwEcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:22:59.246Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\24IS11-2\\Yaga\\Iwanov Egor Pract 2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\24IS11-2\\Yaga\\Iwanov Egor Pract 2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAIA0wDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:17:56.484Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

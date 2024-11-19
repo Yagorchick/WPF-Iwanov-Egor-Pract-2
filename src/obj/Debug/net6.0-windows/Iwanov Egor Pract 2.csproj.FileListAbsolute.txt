@@ -1,0 +1,56 @@
+C:\Users\user\Desktop\24IS11-2\Yaga\Iwanov Egor Pract 2\bin\Debug\net6.0-windows\Iwanov Egor Pract 2.exe
+C:\Users\user\Desktop\24IS11-2\Yaga\Iwanov Egor Pract 2\bin\Debug\net6.0-windows\Iwanov Egor Pract 2.deps.json
+C:\Users\user\Desktop\24IS11-2\Yaga\Iwanov Egor Pract 2\bin\Debug\net6.0-windows\Iwanov Egor Pract 2.runtimeconfig.json
+C:\Users\user\Desktop\24IS11-2\Yaga\Iwanov Egor Pract 2\bin\Debug\net6.0-windows\Iwanov Egor Pract 2.dll
+C:\Users\user\Desktop\24IS11-2\Yaga\Iwanov Egor Pract 2\bin\Debug\net6.0-windows\Iwanov Egor Pract 2.pdb
+C:\Users\user\Desktop\24IS11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\Calculator.g.cs
+C:\Users\user\Desktop\24IS11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\FromToTill.g.cs
+C:\Users\user\Desktop\24IS11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\user\Desktop\24IS11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\Secret.g.cs
+C:\Users\user\Desktop\24IS11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\Translator.g.cs
+C:\Users\user\Desktop\24IS11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\user\Desktop\24IS11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\Iwanov Egor Pract 2_MarkupCompile.cache
+C:\Users\user\Desktop\24IS11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\Iwanov Egor Pract 2_MarkupCompile.lref
+C:\Users\user\Desktop\24IS11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\Calculator.baml
+C:\Users\user\Desktop\24IS11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\FromToTill.baml
+C:\Users\user\Desktop\24IS11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\user\Desktop\24IS11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\Secret.baml
+C:\Users\user\Desktop\24IS11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\Translator.baml
+C:\Users\user\Desktop\24IS11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\Iwanov Egor Pract 2.g.resources
+C:\Users\user\Desktop\24IS11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\Iwanov Egor Pract 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\24IS11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\Iwanov Egor Pract 2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\24IS11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\Iwanov Egor Pract 2.AssemblyInfo.cs
+C:\Users\user\Desktop\24IS11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\Iwanov Egor Pract 2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\24IS11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\Iwanov Egor Pract 2.dll
+C:\Users\user\Desktop\24IS11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\refint\Iwanov Egor Pract 2.dll
+C:\Users\user\Desktop\24IS11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\Iwanov Egor Pract 2.pdb
+C:\Users\user\Desktop\24IS11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\Iwanov Egor Pract 2.genruntimeconfig.cache
+C:\Users\user\Desktop\24IS11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\ref\Iwanov Egor Pract 2.dll
+C:\Users\user\Desktop\24ИС11-2\Yaga\Iwanov Egor Pract 2\bin\Debug\net6.0-windows\Iwanov Egor Pract 2.exe
+C:\Users\user\Desktop\24ИС11-2\Yaga\Iwanov Egor Pract 2\bin\Debug\net6.0-windows\Iwanov Egor Pract 2.deps.json
+C:\Users\user\Desktop\24ИС11-2\Yaga\Iwanov Egor Pract 2\bin\Debug\net6.0-windows\Iwanov Egor Pract 2.runtimeconfig.json
+C:\Users\user\Desktop\24ИС11-2\Yaga\Iwanov Egor Pract 2\bin\Debug\net6.0-windows\Iwanov Egor Pract 2.dll
+C:\Users\user\Desktop\24ИС11-2\Yaga\Iwanov Egor Pract 2\bin\Debug\net6.0-windows\Iwanov Egor Pract 2.pdb
+C:\Users\user\Desktop\24ИС11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\Calculator.g.cs
+C:\Users\user\Desktop\24ИС11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\FromToTill.g.cs
+C:\Users\user\Desktop\24ИС11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\user\Desktop\24ИС11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\Secret.g.cs
+C:\Users\user\Desktop\24ИС11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\Translator.g.cs
+C:\Users\user\Desktop\24ИС11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\user\Desktop\24ИС11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\Iwanov Egor Pract 2_MarkupCompile.cache
+C:\Users\user\Desktop\24ИС11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\Iwanov Egor Pract 2_MarkupCompile.lref
+C:\Users\user\Desktop\24ИС11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\Calculator.baml
+C:\Users\user\Desktop\24ИС11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\FromToTill.baml
+C:\Users\user\Desktop\24ИС11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\user\Desktop\24ИС11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\Secret.baml
+C:\Users\user\Desktop\24ИС11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\Translator.baml
+C:\Users\user\Desktop\24ИС11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\Iwanov Egor Pract 2.g.resources
+C:\Users\user\Desktop\24ИС11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\Iwanov Egor Pract 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\24ИС11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\Iwanov Egor Pract 2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\24ИС11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\Iwanov Egor Pract 2.AssemblyInfo.cs
+C:\Users\user\Desktop\24ИС11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\Iwanov Egor Pract 2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\24ИС11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\Iwanov Egor Pract 2.dll
+C:\Users\user\Desktop\24ИС11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\refint\Iwanov Egor Pract 2.dll
+C:\Users\user\Desktop\24ИС11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\Iwanov Egor Pract 2.pdb
+C:\Users\user\Desktop\24ИС11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\Iwanov Egor Pract 2.genruntimeconfig.cache
+C:\Users\user\Desktop\24ИС11-2\Yaga\Iwanov Egor Pract 2\obj\Debug\net6.0-windows\ref\Iwanov Egor Pract 2.dll
